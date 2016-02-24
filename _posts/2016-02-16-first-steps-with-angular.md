@@ -6,7 +6,7 @@ categories: angular
 ---
 
 #### The most simple angular app
-<a class="jsbin-embed" href="http://jsbin.com/vupoyidexo/embed?html">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.9"></script>
+<a class="jsbin-embed" href="http://jsbin.com/bahubiwupe/embed?html">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.9"></script>
 
 - includes:
   - app initialization/bootstrapping
