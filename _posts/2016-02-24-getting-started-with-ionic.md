@@ -7,7 +7,7 @@ categories: ionic
 
 #### Setup with [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic){:target="_blank"}
 
-- [twitter-example on github](https://github.com/MathiasTim/html5-app-training/tree/twitter-example)
+- [twitter-example on github](https://github.com/MathiasTim/html5-app-training/tree/twitter-example){:target="_blank"}
 
 <hr style="margin: 30px 0;">
 
