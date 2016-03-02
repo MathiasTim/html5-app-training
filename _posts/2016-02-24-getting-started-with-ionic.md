@@ -15,7 +15,7 @@ categories: ionic
 
 - ionic website [ionicframework.com](http://ionicframework.com/)
 
-###### Resources (learning the stuff)
+##### Resources (learning the stuff)
  
 - [JS the good parts](http://www.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742)
 - [codecademy](https://www.codecademy.com/learn/javascript)
@@ -23,3 +23,8 @@ categories: ionic
 - [codeschool angular](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 - [ng-book 1](https://www.ng-book.com/)
 - [ionic in action](https://www.manning.com/books/ionic-in-action)
+
+for pros
+
+- [speaking js](http://speakingjs.com/es5/)
+- [exploring js](http://exploringjs.com/es6/)
