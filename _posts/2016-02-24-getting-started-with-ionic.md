@@ -8,7 +8,7 @@ categories: ionic
 #### Setup with [generator-m-ionic](https://github.com/mwaylabs/generator-m-ionic){:target="_blank"}
 
 - [twitter-example on github](https://github.com/MathiasTim/html5-app-training/tree/twitter-example){:target="_blank"}
-- [the task](https://gist.github.com/MathiasTim/61a9cb6cd12af8095b4f#file-ionic-angular-starting-md)
+- [the task](https://gist.github.com/MathiasTim/61a9cb6cd12af8095b4f#file-ionic-angular-starting-md){:target="_blank"}
 
 <hr style="margin: 30px 0;">
 
