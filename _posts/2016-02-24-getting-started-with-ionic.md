@@ -27,4 +27,4 @@ categories: ionic
 for pros
 
 - [speaking js](http://speakingjs.com/es5/)
-- [exploring js](http://exploringjs.com/es6/)
+- [exploring es6](http://exploringjs.com/es6/)
