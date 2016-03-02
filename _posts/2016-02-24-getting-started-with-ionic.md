@@ -21,3 +21,5 @@ categories: ionic
 - [codecademy](https://www.codecademy.com/learn/javascript)
 - [codeschool js](https://www.codeschool.com/learn/javascript)
 - [codeschool angular](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+- [ng-book 1](https://www.ng-book.com/)
+- [ionic in action](https://www.manning.com/books/ionic-in-action)
