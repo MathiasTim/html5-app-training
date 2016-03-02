@@ -14,3 +14,10 @@ categories: ionic
 #### Links
 
 - ionic website [ionicframework.com](http://ionicframework.com/)
+
+###### Resources (learning the stuff)
+ 
+- [JS the good parts](http://www.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742)
+- [codecademy](https://www.codecademy.com/learn/javascript)
+- [codeschool js](https://www.codeschool.com/learn/javascript)
+- [codeschool angular](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
